@@ -18,7 +18,7 @@ cf.read_data_groups()  # data groups was stored in self.data_groups
 print(cf.array_id)
 print(cf.barcode)
 
-print(cf.parameters_table(cf.header['parameters']
+print(cf.parameters_table(cf.header['parameters']))
 
 with open('data_group.json', 'w') as f:
     json.dump(cf.data_groups, f, indent=4)
