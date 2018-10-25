@@ -1,0 +1,2 @@
+# affy_ccgd_cel
+Read COMMAND CONSOLE GENERIC DATA FILE
