@@ -1,5 +1,5 @@
-# affy_ccgd_cel
-Read COMMAND CONSOLE GENERIC DATA FILE
+# celparser
+Read meta info from cel file, like barcode, array_id, etc.
 
 # File format description
 
